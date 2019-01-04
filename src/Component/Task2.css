@@ -1,0 +1,28 @@
+.container.task2{
+        display: grid;
+        text-align: start;
+
+   /* border: 1px solid red; */
+}
+.container .textTask2{
+    
+     
+   /* border: 1px solid red; */
+
+}
+.container .left-section{
+    display: grid;
+    justify-self: center;
+    min-height: 20vh;
+}
+.container .left-section .range-slider{
+
+    align-self: center;
+ }
+
+.container .right-section{
+    display: grid;
+    justify-self: center;
+    min-height: 20vh;
+    text-align: center ;      
+   }
